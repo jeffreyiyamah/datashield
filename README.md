@@ -43,7 +43,7 @@ DataShield is a comprehensive data management and protection platform designed t
 
 To get started with DataShield, follow these steps:
 
-1. Clone the project repository: `git clone <repository-url>`
+1. Clone the project repository: `git clone <https://github.com/jeffreyiyamah/datashield.git>`
 2. Set up the backend by following the backend development outline in the README.
 3. Set up the frontend by following the frontend development outline in the README.
 
